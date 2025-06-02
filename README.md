@@ -47,12 +47,12 @@ Mauro de Amorim
 <!-- [![Figma](https://img.shields.io/badge/Figma-felipefamorim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://dev.to/mauro_deamorim) -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdawebbr&show_icons=true&theme=default" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mauro-Amorim-Dev&show_icons=true&theme=default" alt="GitHub Stats"/>
 
 
 <h2 id="tecnologias">✅ Tecnologias que utilizo</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdawebbr&layout=compact" alt="Top Languages" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-Amorim-Dev&layout=compact" alt="Top Languages" align="right"/>
 
 ### 🧠 Back-End
 <p>
