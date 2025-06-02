@@ -120,9 +120,10 @@ Explore meus projetos de UI/UX no Figma:
 <h2 id="contato">💬 Contato:</h2>
 
 <p>
-  
-[![Linkedin](https://img.shields.io/badge/-maurodeamorim1@gmail.com-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdawebbr/)](https://www.linkedin.com/in/mdawebbr/)
-[![Gmail Badge](https://img.shields.io/badge/-maurodeamorim1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maurodeamorim1@gmail.com)](mailto:maurodeamorim1@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauro--de--amorim--677152126-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-de-amorim-677152126)
+
+[![Gmail](https://img.shields.io/badge/Gmail-maurodeamorim1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurodeamorim1@gmail.com)
 
 </p>
 
