@@ -13,7 +13,7 @@ Gerente de projetos de tecnologia da informação <strong>sênior</strong> · L�
 <p align="center">
   <a href="#sobre">Sobre</a> • 
   <a href="#tecnologias">Tecnologias</a> • 
-  <a href="#projetos">Projetos</a> • 
+  <!-- <a href="#projetos">Projetos</a> •  -->
   <a href="#artigos">Artigos</a> • 
   <a href="#contato">Contato</a>
 </p>
@@ -38,12 +38,13 @@ Mauro de Amorim
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdawebbr/)
-[![Instagram](https://img.shields.io/badge/Instagram-@felipe.f.amorim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.f.amorim.dev/)
-[![YouTube](https://img.shields.io/badge/YouTube-@Felipe--Amorim--Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mdawebbr)  
-  
-[![Dev.to](https://img.shields.io/badge/Dev.to-%40felipeamorimdev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/felipeamorimdev)
-[![Figma](https://img.shields.io/badge/Figma-felipefamorim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@felipefamorim)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mauro--de--amorim--677152126-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-de-amorim-677152126) [![YouTube](https://img.shields.io/badge/YouTube-maurodeamorim3229-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maurodeamorim3229)
+
+[![dev.to](https://img.shields.io/badge/dev.to-mauro_deamorim_2fc134fd3-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mauro_deamorim_2fc134fd3) [![GitHub](https://img.shields.io/badge/GitHub-maurodeamorim3229-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.youtube.com/@maurodeamorim3229)
+
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-@felipe.f.amorim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.f.amorim.dev/) -->
+<!-- [![Figma](https://img.shields.io/badge/Figma-felipefamorim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://dev.to/mauro_deamorim) -->
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mdawebbr&show_icons=true&theme=default" alt="GitHub Stats"/>
@@ -88,13 +89,13 @@ Mauro de Amorim
 
 ---
 
-<h2 id="projetos">🚀 Projetos em destaque</h2>
+<!-- <h2 id="projetos">🚀 Projetos em destaque</h2>
 
 ### ✨ [ListiFy](https://www.listify.com.br)
 Sistema para organização de itens (livros, CDs, revistas, etc.) com interface moderna e responsiva.
 
 - 🧰 **Tecnologias**: .NET, SQL Server, Angular 16, TailwindCSS  
-- 🔍 **Funcionalidades**: Busca em tempo real, carrossel de imagens, API RESTful
+- 🔍 **Funcionalidades**: Busca em tempo real, carrossel de imagens, API RESTful -->
 
 ---
 
@@ -102,19 +103,19 @@ Sistema para organização de itens (livros, CDs, revistas, etc.) com interface 
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/felipeamorimdev)
 
-- [Classes e Objetos em C#](https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54)
-- [Métodos Assíncronos](https://dev.to/felipeamorimdev/metodos-assincronos-uma-abordagem-no-desenvolvimento-de-software-3l0g)
-- [O que é Lazy Loading](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i)
+- [Classes e Objetos em C#](https://dev.to/mauro_deamorim_2fc134fd3/classes-e-objetos-em-c-net-6ll)
+<!-- - [Métodos Assíncronos](https://dev.to/felipeamorimdev/metodos-assincronos-uma-abordagem-no-desenvolvimento-de-software-3l0g) -->
+<!-- - [O que é Lazy Loading](https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i) -->
 
 ---
 
-<h2>🖌️ Figma</h2>
+<!-- <h2>🖌️ Figma</h2>
 
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@felipefamorim)
 
 
 Explore meus projetos de UI/UX no Figma:  
-**[Acesse meu perfil no Figma](https://www.figma.com/@felipefamorim)**
+**[Acesse meu perfil no Figma](https://www.figma.com/@felipefamorim)** -->
 
 <h2 id="contato">💬 Contato:</h2>
 
