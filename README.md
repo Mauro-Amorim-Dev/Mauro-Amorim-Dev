@@ -1,5 +1,8 @@
 
-<!-- <img src="src/assets/Gif_Lofi_GitHub.gif" alt="Capa" width="1920px" align="center"> -->
+<!-- Hoje dia 02/06 de 2025 meu filho começou a trabalhar na Ortobom 
+Pela graça de Jesus
+-->
+
 <img src="src/assets/VisualStudioScroll.gif" alt="Capa" width="1920px" align="center">
 
 ![](https://komarev.com/ghpvc/?username=mdawebbr&color=006bed)
