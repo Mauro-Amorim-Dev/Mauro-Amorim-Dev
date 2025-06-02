@@ -20,7 +20,7 @@ Gerente de projetos de tecnologia da informação <strong>sênior</strong> · L�
 
 <h2 id="sobre">💻 Sobre Mim</h2>
 
-<img src="src/assets/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right"/>
+<img src="src/assets/CadeiraComputador.gif" alt="Ilustração de um computador" width="244px" align="right"/>
 
 Está à procura de um Desenvolvedor Dot.Net criativo e experiente? Não procure mais, pois eu estou
 pronto para desempenhar o cargo! Com mais de 28 anos de experiência como Desenvolvedor, estou pronto
