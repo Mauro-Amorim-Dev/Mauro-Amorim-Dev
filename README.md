@@ -1,6 +1,6 @@
 
-<img src="src/assets/Gif_Lofi_GitHub.gif" alt="Capa" width="1920px" align="center">
-
+<!-- <img src="src/assets/Gif_Lofi_GitHub.gif" alt="Capa" width="1920px" align="center"> -->
+<img src="src/assets/HT16k33_PCB_14Seg.gif" alt="Capa" width="1920px" align="center">
 
 ![](https://komarev.com/ghpvc/?username=mdawebbr&color=006bed)
 
