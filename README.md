@@ -64,7 +64,7 @@ Mauro de Amorim
   <img align="center" alt="MDA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MDA-PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <img align="center" alt="MDA-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="MDA-Proteus" height="30" width="40" src="src/assets/proteus.svg">
+  <img align="center" alt="MDA-Proteus" height="30" width="40" src="src/assets/Proteus_Design_Suite_Atom_Logo.svg">
 </div>
 </p>
 
