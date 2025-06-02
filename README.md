@@ -52,6 +52,22 @@ Mauro de Amorim
 
 <h2 id="tecnologias">✅ Tecnologias que utilizo</h2>
 
+<p>
+<div style="display: inline_block"><br>
+  <!-- <img align="center" alt="MDA-Dot.Net" height="30" width="40" src="src/assets/dot-net-plain-wordmark.svg">
+  <img align="center" alt="MDA-Csharp" height="30" width="40" src="src/assets/csharp-original.svg">	
+  <img align="center" alt="MDA-Angular" height="30" width="40" src="src/assets/angular-original.svg">	 -->
+  <img align="center" alt="MDA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">	
+  <img align="center" alt="MDA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MDA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MDA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MDA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MDA-PowerShell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
+  <img align="center" alt="MDA-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="MDA-Proteus" height="30" width="40" src="src/assets/proteus.svg">
+</div>
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-Amorim-Dev&layout=compact" alt="Top Languages" align="right"/>
 
 ### 🧠 Back-End
