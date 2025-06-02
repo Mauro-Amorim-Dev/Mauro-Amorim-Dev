@@ -1,6 +1,6 @@
 
 <!-- <img src="src/assets/Gif_Lofi_GitHub.gif" alt="Capa" width="1920px" align="center"> -->
-<img src="src/assets/Animação Proteus 1.gif" alt="Capa" width="1920px" align="center">
+<img src="src/assets/VisualStudioScroll.gif" alt="Capa" width="1920px" align="center">
 
 ![](https://komarev.com/ghpvc/?username=mdawebbr&color=006bed)
 
